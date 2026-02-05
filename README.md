@@ -4,7 +4,7 @@
 
 Developing innovative projects [View more](https://github.com/ramanak003);<br>
 
-- ⚙️ I use daily: `.py`, `.html`, `.css`, `.ts`, `.go`
+- ⚙️ I use daily: `.py`, `.html`, `.css`, `.ts`, `.React`
 - 🌍 I'm mostly active in [ LinkedIn ](https://www.linkedin.com/in/);
 - 💅 Designed: @Ramana k, [ www.Ramanak.dev ]( www.RamanaK.dev ),
 - 📄 Resume/CV: Find out more about me 
